@@ -1253,12 +1253,12 @@ end
 
 :dyombuffer
 hex
-44 59 4F 4D 00 00 00 00 00 00
+"DYOM"      00 00 00 00 00 00
 end
 
 :textnamebuffer
 hex
-44 59 4F 4D 00 00 00 00 00 00
+"DYOM"      00 00 00 00 00 00
 00 00 00 00 00 00 00 00 00 00
 00 00 00 00 00 00 00 00 00 00
 00 00 00 00 00 00 00 00 00 00
@@ -1267,12 +1267,12 @@ end
 
 :textcreditbuffer
 hex
-"Missiondesign" 20 "by" 20 "~N~~y~" 
+"Missiondesign by ~N~~y~" 
 end
 
 :textauthorbuffer
 hex
-44 59 4F 4D 00 00 00 00 00 00
+"DYOM"      00 00 00 00 00 00
 00 00 00 00 00 00 00 00 00 00
 00 00 00 00 00 00 00 00 00 00
 00 00 00 00 00 00 00 00 00 00
